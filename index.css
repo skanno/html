@@ -4,11 +4,24 @@ html, body{
 }
 
 header{
-    color: #0000cd;
+    color: #13BEF9;
     font-family: 'Abril Fatface', cursive;
-    text-shadow: 3px 3px 5px #ffffff;
+    __text-shadow: 3px 3px 5px #ffffff;
+}
+
+footer{
+    color: #8a8a94;
+    height: 50px;
+    text-align: center;
 }
 
 #background{
     height: 100vh;
+}
+
+#works{
+    font-family: 'Abril Fatface', cursive;
+    color: #13BEF9;
+    list-style: none;
+    text-align: center;
 }
