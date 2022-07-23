@@ -1,0 +1,14 @@
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    color: #0000cd;
+    font-family: 'Abril Fatface', cursive;
+    text-shadow: 3px 3px 5px #ffffff;
+}
+
+#background{
+    height: 100vh;
+}
